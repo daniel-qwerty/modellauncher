@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "574928107836",
+    "firebase_url": "https://modellauncher-4355c.firebaseio.com",
+    "project_id": "modellauncher-4355c",
+    "storage_bucket": "modellauncher-4355c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574928107836:android:8f89ff259bf13ece",
+        "android_client_info": {
+          "package_name": "com.modellauncher.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574928107836-sikronh13sfdb64dd1vhrbl1iidlb2gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.modellauncher.live",
+            "certificate_hash": "1ab7117091107a068c638a361fd3f6b026ed071b"
+          }
+        },
+        {
+          "client_id": "574928107836-2amg1ci986oe92tlq09eoegvjegs9b8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlsgLACFfYFGaneRJXM1Eh_lzMJY46Aqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574928107836-2amg1ci986oe92tlq09eoegvjegs9b8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "574928107836-3s6i9557mbhsqjabl4mvg70lp349q1s3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.modellauncher.live"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
